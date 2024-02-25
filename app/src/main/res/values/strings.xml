@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">27.RizalBayuArdhika</string>
+    <string name="nameEditText">Name :</string>
+    <string name="sayHelloButton">Say Hello</string>
+    <string name="sayHelloTextView">Hello %1$s</string>
+    <string name="playerScoreView">PlayerScore: %1$s</string>
+    <string name="computerScoreView">ComputerScore: $1%s</string>
+    <string-array name="names">
+        <item>EKo</item>
+        <item>Kurniawan</item>
+        <item>Khannedy</item>
+    </string-array>
+</resources>

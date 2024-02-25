@@ -1,0 +1,7 @@
+<resources>
+    <string name="nameEditText">Nama :</string>
+    <string name="sayHelloButton">Ucapkan Halo</string>
+    <string name="sayHelloTextView">Halo %1$s</string>
+    <string name="playerScoreView">PlayerScore: %1$s</string>
+    <string name="computerScoreView">ComputerScore: %1$s</string>
+</resources>
